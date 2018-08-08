@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1027217928688",
+    "firebase_url": "https://team12-94e13.firebaseio.com",
+    "project_id": "team12-94e13",
+    "storage_bucket": "team12-94e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027217928688:android:3b1d2615710b6709",
+        "android_client_info": {
+          "package_name": "com.bitmo.bitmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027217928688-qeml34ihem3i3ff1u0q0bk0oss1ntd95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitmo.bitmo",
+            "certificate_hash": "e65f11bbae601fd085034d5bfb019dec5d70dc29"
+          }
+        },
+        {
+          "client_id": "1027217928688-6975ckui81atc33umued3gda2bondmst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitmo.bitmo",
+            "certificate_hash": "6cbe4f9989ddc0743249a83464c804b668bd3ac6"
+          }
+        },
+        {
+          "client_id": "1027217928688-4vi08mve8lptsqljiqod85tb44tgk53p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mIsY5ZwWX5lU1MNVeUCtTUqGrQ-l9AA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027217928688-4vi08mve8lptsqljiqod85tb44tgk53p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
